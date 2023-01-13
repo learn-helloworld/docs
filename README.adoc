@@ -1,0 +1,6 @@
+= Documentation
+Jonas da Silva
+:description: Official Documentation of the HelloWorld Programming Language
+:url-repo: https://github.com/learn-helloworld/docs
+
+You want to learn the HelloWorld programming language? That's nice to hear but … it does not exist - yet!
